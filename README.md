@@ -21,7 +21,6 @@ AI Model Deployment: The heart of the system lies in the AI model deployed using
 
 4. Workflow:
 
-User Registration and Authentication: AIFoodBlogs provides a seamless user experience with secure registration and authentication processes facilitated by the Django admin panel.
 Image Upload: Users upload images of food items they wish to explore recipes for via the frontend interface.
 Image Processing: Uploaded images undergo sophisticated image processing techniques to extract essential features such as ingredients and cooking methods.
 Recipe Generation: The processed image data is then fed into the AI model deployed on Streamlit. The model utilizes its machine learning algorithms to suggest suitable recipes based on the input images.
