@@ -52,6 +52,6 @@ pip install -r requirements.txt
 python manage.py runserver
 
 
-python -m streamlit run C:\Users\DELL\PycharmProjects\registration system\SeeFood\app.py
+python -m streamlit run C:\Users\DELL\PycharmProjects\
 
-Path :  C:\Users\DELL\PycharmProjects\registration system\SeeFood\app.py
+Path :  C:\Users\DELL\PycharmProjects\
