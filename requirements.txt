@@ -1,0 +1,7 @@
+streamlit>=1.15.0
+numpy
+tensorflow
+timm
+torch
+transformers
+altair<5
